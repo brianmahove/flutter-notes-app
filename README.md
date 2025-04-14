@@ -7,21 +7,21 @@ Easily create, edit, and manage your notes in a clean and intuitive interface �
 📸 App Screenshots
 🏠 Home Screen
 A simple dashboard to access and manage all your notes.
-<img src="screenshots/Screenshot_1744437694.png" width="300"/>
 
+<div align="center"> <img src="screenshots/Screenshot_1744437694.png" width="300"/> </div>
 ➕ Add Note
 Quickly create a new note with just a tap.
-<img src="screenshots/Screenshot_1744437703.png" width="300"/>
 
+<div align="center"> <img src="screenshots/Screenshot_1744437703.png" width="300"/> </div>
 ✍️ Create Note Screen
 Write your thoughts or tasks with a smooth, focused writing interface.
-<img src="screenshots/Screenshot_1744437729.png" width="300"/>
 
+<div align="center"> <img src="screenshots/Screenshot_1744437729.png" width="300"/> </div>
 📭 All Notes Screen (Empty State)
 When no notes are added — clean and minimal.
-<img src="screenshots/Screenshot_1744437713.png" width="300"/>
 
+<div align="center"> <img src="screenshots/Screenshot_1744437713.png" width="300"/> </div>
 📋 All Notes Screen (With Notes)
 Browse your saved notes in a structured view.
-<img src="screenshots/Screenshot_1744438104.png" width="300"/>
 
+<div align="center"> <img src="screenshots/Screenshot_1744438104.png" width="300"/> </div>
